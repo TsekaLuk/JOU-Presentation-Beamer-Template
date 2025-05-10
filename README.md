@@ -8,7 +8,7 @@
 [![Overleaf Template](https://img.shields.io/badge/Overleaf-Template-brightgreen.svg)](https://www.overleaf.com/)
 [![Last Commit](https://img.shields.io/github/last-commit/TsekaLuk/JOU-Presentation-Beamer-Template.svg)](https://github.com/TsekaLuk/JOU-Presentation-Beamer-Template/commits)
 
-[简体中文](README_zh.md) | English
+[简体中文](README.CN.md) | English
 
 This template is a Beamer presentation template specifically designed for academic scenarios at Jiangsu Ocean University, providing a clean and professional layout.
 
