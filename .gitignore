@@ -1,0 +1,65 @@
+# LaTeX generated files
+*.pdf
+*.dvi
+*.ps
+
+# LaTeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.synctex
+*.synctex.gz
+*.synctex(busy)
+*.pdfsync
+*.nav
+*.snm
+*.vrb
+
+# Beamer specific
+*.nav
+*.snm
+*.vrb
+
+# BibTeX
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+
+# Build tool auxiliary files
+*.fdb_latexmk
+*.synctex
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+# Intermediate files
+_minted*
+*.pyg
+*.tdo
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.bak
+*.tmp
+*~
+
+# System specific
+.DS_Store
+Thumbs.db
+desktop.ini
